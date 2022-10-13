@@ -1,0 +1,8 @@
+
+
+					--color1: hsl(230, 50%, 81%);
+#5966a6 	 blue			--color2: hsl(230, 30%, 50%);
+#363d63		dark blue		--color3: hsl(230, 30%, 30%);
+					--shade1: hsl(0, 0%, 90%);
+					--shade2: hsl(0, 0%, 50%);
+					--shade3: hsl(0, 0%, 10%);
